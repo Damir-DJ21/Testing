@@ -1,7 +1,7 @@
 # -*- coding: utf8 -*-
 import random
 import telebot
-bot = telebot.TeleBot('1418937597:AAFMFYVpHwbGCgczGMXHBzqhPDNNu5UHGOk')
+bot = telebot.TeleBot('BOT_TOKEN')
 from telebot import types
 first = ["Сегодня — идеальный день для новых начинаний.","Оптимальный день для того, чтобы решиться на смелый поступок!",
          "Будьте осторожны, сегодня звёзды могут повлиять на ваше финансовое состояние.","Лучшее время для того, чтобы начать новые отношения или разобраться со старыми.",
